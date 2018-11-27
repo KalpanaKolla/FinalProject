@@ -26,5 +26,10 @@ namespace Yummy.Controllers
 
             return View();
         }
+
+        public ActionResult MealPlanner()
+        {
+            return View();
+        }
     }
 }
